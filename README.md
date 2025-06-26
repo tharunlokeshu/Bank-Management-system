@@ -22,25 +22,6 @@ Copy
 Edit
 python bank_system.py
 
-🧑‍💼 Example Customers:
-Name	PIN	Balance (Rs)
-Tharun	4373	10,000
-Lokesh	4321	20,000
-Roopas	8765	20,000
-Thaheer	9132	40,000
-Prasad	1234	10,000
-
-📷 Screenshot:
-=====================================
- ----Welcome to THARUN LOKESH Bank----
-*
-=<< 1. Open a new account         >>=
-=<< 2. Withdraw Money             >>=
-=<< 3. Deposit Money              >>=
-=<< 4. Check Customers & Balance  >>=
-=<< 5. Exit/Quit                  >>=
-*
-
 🔐 Note:
 Max 5 new customers can be added due to the limit in the initial implementation.
 PINs must be remembered for withdrawal or deposit.
