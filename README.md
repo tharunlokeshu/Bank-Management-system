@@ -1,30 +1,35 @@
-💳 THARUN LOKESH Bank – Console-Based Banking System
-A simple Python-based terminal application that simulates a basic banking system. Users can create accounts, deposit or withdraw money, and view balances.
+# 💳 THARUN LOKESH Bank – Console-Based Banking System
 
-📌 Features:
-Create a new customer bank account.
-Withdraw money after PIN validation.
-Deposit money into existing accounts.
-View list of customers and their balances.
-Basic input validation and flow control.
+A simple Python-based terminal application that simulates a basic banking system.  
+Users can create accounts, deposit or withdraw money, and view account balances.
 
-💻 Technologies Used
-Python 3
-Built-in functions and data structures (lists, loops, conditionals)
+---
 
-▶️ How to Run
-Make sure you have Python installed (version 3.x).
-Copy the code into a file named bank_system.py.
+## 📌 Features
 
-Run the file using:
-bash
-Copy
-Edit
+- 🧾 Create a new customer bank account  
+- 💸 Withdraw money after PIN verification  
+- 💰 Deposit money into existing accounts  
+- 📊 View list of customers and their balances  
+- 🔐 Basic input validation and flow control  
+- 👥 Limit of 5 customer accounts (in initial version)
+
+---
+
+## 💻 Technologies Used
+
+- `Python 3.x`
+- Built-in data structures: lists, loops, conditionals
+- Console/Terminal for input-output
+
+---
+
+## ▶️ How to Run
+
+1. Make sure Python 3 is installed on your system.
+2. Copy or clone this repository.
+3. Save the code in a file named `bank_system.py`
+4. Run the program using:
+
+```bash
 python bank_system.py
-
-🔐 Note:
-Max 5 new customers can be added due to the limit in the initial implementation.
-PINs must be remembered for withdrawal or deposit.
-
-📬 Contribute:
-Feel free to fork and contribute to this project. Suggestions and improvements are welcome!
